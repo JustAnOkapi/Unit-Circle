@@ -5,6 +5,7 @@
     "python.linting.pylamaEnabled": false,
     "python.linting.pylintEnabled": true,
     "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none",
         "reportMissingImports": "none"
     }
 }
